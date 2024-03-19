@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="002f11ea-1bdd-4f50-91ca-29109fde63d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\maven\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2R4HKTC25ylcrWF6H2J7BGO03TN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/外包项目重置/电子商城/ElectronicMall - 上传/源代码/ElectronicMallApi - idea",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "957faaeb60231adbc2e2ad24221d2da1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\ElectronicMall\src\ElectronicMallApi - idea\src\main\java\com\rabbiter\em\config" />
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\ElectronicMall\src\ElectronicMallApi - idea\avatar" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ElectronicMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ElectronicMallApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mall.em.ElectronicMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="002f11ea-1bdd-4f50-91ca-29109fde63d9" name="Changes" comment="" />
+      <created>1686502370397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686502370397</updated>
+      <workItem from="1686502371553" duration="196000" />
+      <workItem from="1686733712712" duration="1278000" />
+      <workItem from="1686836423452" duration="1897000" />
+      <workItem from="1686843632421" duration="463000" />
+      <workItem from="1687238616563" duration="138000" />
+      <workItem from="1687266369014" duration="1009000" />
+      <workItem from="1687510709386" duration="8000" />
+      <workItem from="1687511542393" duration="2000" />
+      <workItem from="1687589575448" duration="1091000" />
+      <workItem from="1687780699252" duration="518000" />
+      <workItem from="1687781443426" duration="659000" />
+      <workItem from="1687857495544" duration="3408000" />
+      <workItem from="1687926704359" duration="379000" />
+      <workItem from="1687966931452" duration="279000" />
+      <workItem from="1689313997214" duration="269000" />
+      <workItem from="1689337356467" duration="30000" />
+      <workItem from="1689399878681" duration="424000" />
+      <workItem from="1689478588188" duration="146000" />
+      <workItem from="1689522081897" duration="16000" />
+      <workItem from="1690953556745" duration="55000" />
+      <workItem from="1690994163250" duration="379000" />
+      <workItem from="1690994602640" duration="26000" />
+      <workItem from="1691054241702" duration="11000" />
+      <workItem from="1691148974782" duration="3158000" />
+      <workItem from="1691195598556" duration="1418000" />
+      <workItem from="1691646923084" duration="60000" />
+      <workItem from="1691670243943" duration="675000" />
+      <workItem from="1691900845920" duration="2339000" />
+      <workItem from="1692028265088" duration="1033000" />
+      <workItem from="1692118838802" duration="510000" />
+      <workItem from="1692194326307" duration="1246000" />
+      <workItem from="1692982037341" duration="674000" />
+      <workItem from="1693017919793" duration="1625000" />
+      <workItem from="1693198769115" duration="863000" />
+      <workItem from="1694512684248" duration="1258000" />
+      <workItem from="1694708359428" duration="628000" />
+      <workItem from="1694711046181" duration="5000" />
+      <workItem from="1694837002785" duration="12000" />
+      <workItem from="1695481538242" duration="1641000" />
+      <workItem from="1695643168910" duration="64000" />
+      <workItem from="1695648172272" duration="23000" />
+      <workItem from="1695652339721" duration="13000" />
+      <workItem from="1695652361893" duration="107000" />
+      <workItem from="1696053740017" duration="491000" />
+      <workItem from="1696054270447" duration="365000" />
+      <workItem from="1696781830848" duration="430000" />
+      <workItem from="1697357156717" duration="2623000" />
+      <workItem from="1697378438583" duration="273000" />
+      <workItem from="1697449972916" duration="1911000" />
+      <workItem from="1697468891896" duration="1948000" />
+      <workItem from="1697561690566" duration="394000" />
+      <workItem from="1697621493070" duration="107000" />
+      <workItem from="1697694793010" duration="339000" />
+      <workItem from="1697802550803" duration="656000" />
+      <workItem from="1697863368885" duration="536000" />
+      <workItem from="1699168375253" duration="6813000" />
+      <workItem from="1699263052407" duration="2696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+</project>
